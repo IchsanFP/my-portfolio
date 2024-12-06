@@ -35,11 +35,10 @@ export default function Resume() {
             <div className="p-6 transition-shadow duration-300 rounded-lg shadow-lg bg-dark-400 shadow-dark-100">
               <ul className="pl-6 mt-2 space-y-2 text-sm font-bold list-disc md:text-base font-poppins text-light-200">
                 <li>
-                Skillset <span className="text-sm font-normal md:text-base text-light-200 font-poppins">- Web Development, HTML, CSS, dan JavaScript Front-End Development, Problem
-                Solving, Critical thinking</span>
+                Skillset <span className="text-sm font-normal md:text-base text-light-200 font-poppins">- Web Development, Front-end Development, HTML, CSS, JavaScript, Problem Solving, Critical Thinking, Teamwork Time, and Management Communication.</span>
                 </li>
                 <li>
-                Toolset <span className="text-sm font-normal md:text-base text-light-200 font-poppins">- Microsoft Office, React JS, Laravel, xampp Vs Code, Figma, Canva</span>
+                Toolset <span className="text-sm font-normal md:text-base text-light-200 font-poppins">- React JS, Laravel, XAMPP, VS Code, Git/GitHub, Tailwindcss, Figma, Canva, and Microsoft Office</span>
                 </li>
               </ul>
             </div>
@@ -59,13 +58,13 @@ export default function Resume() {
               </p>
               <ul className="pl-6 mt-2 space-y-2 text-sm font-normal list-disc md:text-base text-light-200 font-poppins">
                 <li>
-                As a UI/UX designer and Front-end developer, responsible as a website design maker who
- previously had a design for mobile so that it is easy to implement when want to design a UI
-on website and responsible for designing the website like the design that has been
-designed.
+                  Create a web design based on an existing mobile app design, then implement it into a website.
                 </li>
                 <li>
-                This website wa created using HTML, CSS and Bootstrap with Laravel as a framework
+                  This website design is made using Figma, then implemented using HTML, CSS, and JavaScript through the Laravel framework.
+                </li>
+                <li>
+                  Collaborated with the design team to ensure seamless implementation of UI/UX designs.
                 </li>
               </ul>
             </div>
