@@ -36,7 +36,7 @@ export default function Header() {
         };
     }, []);
 
-    let scrollActive = scroll ? "fixed z-[9999] backdrop-blur dark:bg-dark-500 dark:bg-opacity-50" : "";
+    let scrollActive = scroll ? "fixed z-[9999] backdrop-blur bg-dark-500 bg-opacity-50" : "";
 
     return(
         <header className={`fixed top-0 left-0 z-10 flex items-center w-full bg-transparent ${scrollActive} animate__animated animate__fadeInDown animate__delay-3s`}>
@@ -72,7 +72,7 @@ function NavBar({ activeSection }){
                 <i className="text-3xl text-light-300 ri-menu-3-line"></i>
             </button>
             
-            <nav className={`absolute py-5 shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:rounded-none bg-dark-500 lg:bg-transparent shadow-slate-500 ${toggleNavbar ? "block" : "hidden"}`}>
+            <nav className={`absolute py-5 shadow-lg rounded-lg max-w-[250px] w-full right-4 top-full lg:block lg:static lg:max-w-full lg:shadow-none lg:rounded-none bg-dark-500 lg:bg-transparent shadow-light-300 ${toggleNavbar ? "block" : "hidden"}`}>
                 <ul className="block lg:flex">
                     <li className="group">
                         <a href="#home" className={linkClass("home")}>Home</a>
