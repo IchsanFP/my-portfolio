@@ -23,7 +23,7 @@ export const cardPortfolio = [
             { name: "TailwindCSS", icon: TailwindCSS },
           ],
         detail: "https://github.com/IchsanFP/TodoApp",
-        previewProject: "https://ichsanfp.github.io/TodoApp/"
+        previewProject: "https://todo-app-ichsanf.vercel.app/"
     },
     {
         imgSrc: Project2,
