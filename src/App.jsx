@@ -1,4 +1,4 @@
-import Header from "./components/Header"
+import Navbar from "./components/Navbar"
 import HomePage from "./pages/HomePage"
 import AboutMe from "./pages/AboutMe"
 import Skills from "./pages/Skills"
@@ -17,7 +17,8 @@ export default function App() {
   // })
   return (
     <>
-      <Header />
+      {/* <Header /> */}
+      <Navbar />
       <HomePage />
       <AboutMe />
       <Skills />

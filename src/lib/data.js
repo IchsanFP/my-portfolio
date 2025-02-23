@@ -1,7 +1,3 @@
-import Project1 from "../assets/img/projectCreated/P1.png"
-import Project2 from "../assets/img/projectCreated/P2.png"
-import Project3 from "../assets/img/projectCreated/P3.png"
-import Project4 from "../assets/img/projectCreated/P4.png"
 import ReactJS from "../assets/icon/react.svg"
 import Laravel from "../assets/icon/laravel.svg"
 import HTML5 from "../assets/icon/html5.svg"
@@ -10,6 +6,66 @@ import Javascript from "../assets/icon/javascript.svg"
 import CSS from "../assets/icon/css.svg"
 import TailwindCSS from "../assets/icon/tailwindcss.svg"
 import Bootstrap from "../assets/icon/bootstrap.svg"
+import Figma from "../assets/icon/figma-color.svg"
+import Canva from "../assets/icon/canva.svg"
+import Git from "../assets/icon/git-color.svg"
+import TypeScript from "../assets/icon/typescript-color.svg"
+import NextJS from "../assets/icon/nextdotjs-color.svg"
+import Project1 from "../assets/img/projectCreated/P1.png"
+import Project2 from "../assets/img/projectCreated/P2.png"
+import Project3 from "../assets/img/projectCreated/P3.png"
+import Project4 from "../assets/img/projectCreated/P4.png"
+
+export const ListSkill = [
+    {
+        name: "React Js",
+        icon: ReactJS
+    },
+    {
+        name: "Next Js",
+        icon: NextJS
+    },
+    {
+        name: "Laravel",
+        icon: Laravel
+    },
+    {
+        name: "HTML",
+        icon: HTML5
+    },
+    {
+        name: "CSS",
+        icon: CSS
+    },
+    {
+        name: "JavaScript",
+        icon: Javascript
+    },
+    {
+        name: "TypeScript",
+        icon: TypeScript
+    },
+    {
+        name: "Git",
+        icon: Git
+    },
+    {
+        name: "TailwindCSS",
+        icon: TailwindCSS
+    },
+    {
+        name: "Bootstrap",
+        icon: Bootstrap
+    },
+    {
+        name: "Figma",
+        icon: Figma
+    },
+    {
+        name: "Canva",
+        icon: Canva
+    },
+]
 
 export const cardPortfolio = [
     {
