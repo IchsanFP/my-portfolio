@@ -15,10 +15,7 @@ export default function Resume() {
                 <div data-aos="fade-up" data-aos-duration='1000' data-aos-delay="400" className="mt-6 space-y-8">
                     <div className="p-6 transition-shadow duration-300 rounded-lg shadow-xl bg-dark-400 shadow-dark-100">
                         <p className="text-xs font-normal md:text-sm text-light-200 font-poppins">
-                            Bachelor of Informatics graduate. I am interested in Software Engineering, 
-                            especially in Web Development. Familiar with modern Front-end Framework such 
-                            as React using JavaScript. And I am a hardworking person, and can work both 
-                            individually or in groups.
+                            I am a Bachelor of Informatics graduate with a strong interest in Software Engineering, especially Web Development. I am familiar with modern front-end frameworks such as React and Next.js, using both JavaScript and TypeScript. I am a hardworking individual who can work well both independently and in a team.
                         </p>
                     </div>
                 </div>
@@ -32,10 +29,10 @@ export default function Resume() {
                     <div className="p-6 transition-shadow duration-300 rounded-lg shadow-lg bg-dark-400 shadow-dark-100">
                         <ul className="pl-6 mt-2 space-y-2 text-xs font-bold list-disc md:text-sm font-poppins text-light-200">
                             <li>
-                                Skillset <span className="text-xs font-normal md:text-sm text-light-200 font-poppins">- Web Development, Front-end Development, HTML, CSS, JavaScript, Problem Solving, Critical Thinking, Teamwork Time, and Management Communication.</span>
+                                Skillset <span className="text-xs font-normal md:text-sm text-light-200 font-poppins">- Web Development, Front-end Development, HTML, CSS, JavaScript, TypeScript, Problem Solving, Critical Thinking, Teamwork Time, and Management Communication.</span>
                             </li>
                             <li>
-                                Toolset <span className="text-xs font-normal md:text-sm text-light-200 font-poppins">- React JS, Laravel, XAMPP, VS Code, Git/GitHub, Tailwindcss, Figma, Canva, and Microsoft Office</span>
+                                Toolset <span className="text-xs font-normal md:text-sm text-light-200 font-poppins">- React JS, Next JS, Laravel, XAMPP, VS Code, Git/GitHub, Tailwindcss, Figma, Canva, and Microsoft Office</span>
                             </li>
                         </ul>
                     </div>

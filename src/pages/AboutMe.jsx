@@ -10,7 +10,7 @@ export default function AboutMe(){
                     <div className="bg-light-50 w-[80px] md:w-[150px] lg:w-[250px] h-1"></div>
                 </div>
 
-                <div className="flex flex-wrap">
+                <div className="flex flex-wrap justify-center">
                     <div data-aos="fade-up" data-aos-duration='1000' data-aos-delay="200" className="w-full lg:w-2/5">
                         <div className="relative">
                             <img src={Foto} alt="Ichsan Fadhlika" className="relative z-10 w-[411px] mx-auto"/>

@@ -2,7 +2,7 @@ import Foto from "../assets/img/Foto1.jpg"
 export default function HomePage() {
     return(
         <section id="home" className="pb-32 pt-[108px] bg-dark-500">
-            <div className="flex gap-2 px-8 m-auto lg:px-32 md:px-16">
+            <div className="flex justify-center gap-2 px-8 m-auto lg:px-32 md:px-16">
                 <div className="flex flex-col items-center justify-center">
                     <img 
                         data-aos="fade-up" data-aos-duration='1000' 
