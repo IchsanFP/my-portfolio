@@ -15,6 +15,7 @@ import Project1 from "../assets/img/projectCreated/P1.png"
 import Project2 from "../assets/img/projectCreated/P2.png"
 import Project3 from "../assets/img/projectCreated/P3.png"
 import Project4 from "../assets/img/projectCreated/P4.png"
+import Project5 from "../assets/img/projectCreated/P5.png"
 
 export const ListSkill = [
     {
@@ -116,6 +117,19 @@ export const cardPortfolio = [
             { name: "Boostrap", icon: Bootstrap },
           ],
         detail: "https://github.com/IchsanFP/travelgo",
+        previewProject: "#"
+    },
+    {
+        imgSrc: Project5,
+        title: 'Website Attendance',
+        description: 'A web-based attendance application where administrators can manage users, while users can submit their attendance records.',
+        tools: [
+            { name: "Laravel", icon: Laravel },
+            { name: "PHP", icon: PHP },
+            { name: "React Js", icon: ReactJS },
+            { name: "TailwindCSS", icon: TailwindCSS },
+          ],
+        detail: "#",
         previewProject: "#"
     },
 ];
