@@ -16,6 +16,7 @@ import Project2 from "../assets/img/projectCreated/P2.png"
 import Project3 from "../assets/img/projectCreated/P3.png"
 import Project4 from "../assets/img/projectCreated/P4.png"
 import Project5 from "../assets/img/projectCreated/P5.png"
+import Project6 from "../assets/img/projectCreated/P6.png"
 
 export const ListSkill = [
     {
@@ -131,5 +132,16 @@ export const cardPortfolio = [
           ],
         detail: "#",
         previewProject: "#"
+    },
+    {
+        imgSrc: Project6,
+        title: 'Al-Quran Online',
+        description: 'Al-Quran Online adalah sebuah website yang menyediakan layanan membaca Al-Quran secara online lengkap dengan terjemahan, audio murottal, dan fitur pencarian surat atau ayat untuk memudahkan ibadah dan pembelajaran.',
+        tools: [
+            { name: "React Js", icon: ReactJS },
+            { name: "TailwindCSS", icon: TailwindCSS },
+          ],
+        detail: "#",
+        previewProject: "https://alquran-three.vercel.app/"
     },
 ];

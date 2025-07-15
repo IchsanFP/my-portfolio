@@ -1,4 +1,4 @@
-import { ListSkill } from "../lib/data";
+import { ListSkill } from "../constants/data";
 
 export default function Skills(){
     return(

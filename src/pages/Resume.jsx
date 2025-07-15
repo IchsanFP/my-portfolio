@@ -63,6 +63,25 @@ export default function Resume() {
                         </ul>
                     </div>
                 </div>
+                <div data-aos="fade-up" data-aos-duration='1000' data-aos-delay="400" className="mt-6 space-y-8">
+                    <div className="p-6 transition-shadow duration-300 rounded-lg shadow-lg bg-dark-400 shadow-dark-100">
+                        <h4 className="text-lg font-semibold md:text-xl font-poppins text-light-50">Internship Otoritas Jasa Keuangan - OJK Institute (DPES)</h4>
+                        <p className="text-sm font-medium md:text-base text-light-300 font-poppins">
+                            Data Processing and Verification | April 2025 - April 2025
+                        </p>
+                        <ul className="pl-6 mt-2 space-y-2 text-xs font-normal list-disc md:text-sm text-light-200 font-poppins">
+                            <li>
+                                Processing Lembaga Sertifikasi Profesi (LSP) data to find out the total number of participants who graduated from each LSP each year
+                            </li>
+                            <li>
+                                Processing webinar data to identify the number of financing institutions, the number of participants from those institutions, and the average post-test score of participants from financing institutions. 
+                            </li>
+                            <li>
+                                Preparing meeting minutes.
+                            </li>
+                        </ul>
+                    </div>
+                </div>
             </div>
 
             {/* Education */}
